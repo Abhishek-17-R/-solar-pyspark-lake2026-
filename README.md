@@ -5,7 +5,7 @@ Theme 23: Renewable Energy and Energy Conservation.
 
 **Author:** Abhishek R., BCA, Chanakya University
 
-## What this project is about (in simple words)
+## What this project is about 
 
 Solar power goes up and down with the sun and the weather. If we can predict it, energy can be planned and saved instead of wasted.
 
